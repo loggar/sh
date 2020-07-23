@@ -19,6 +19,8 @@ which bash # confirm where the bash interpreter is located
 echo Hello, World!
 ```
 
+## Run the script
+
 ```
 ./hello-world.sh
 
@@ -37,4 +39,13 @@ chmod u+x hello-world.sh
 # or
 
 bash ./hello-world.sh
+```
+
+## Run bash script with git bash (windows)
+
+```
+C:\_dev\git\bin\bash.exe .\git.branch.status.sh
+
+C:\_dev\git\bin\bash.exe .\git.is-workdir.up-to-date.sh
+
 ```
