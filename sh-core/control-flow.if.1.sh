@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 
 if [[ "$value" == "check" ]]; then
-	# do something
+	echo "#do something"
 else
-	# do something else
+	echo "#do something else"
 fi

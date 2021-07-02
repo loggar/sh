@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-# $./myscript.sh val1 val2
+# $ ./args.passing-in-values.2.sh val1 val2
 
 echo "$1"
 echo "$2"
