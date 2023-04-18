@@ -31,6 +31,8 @@ We have to make it an executable file by changing the permissions.
 
 ```
 chmod u+x hello-world.sh
+
+chmod +x hello-world.sh
 ```
 
 ```
